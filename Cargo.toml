@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 authors = ["zTgx <beautifularea@gmail.com>"]
 repository = "https://github.com/zTgx/llm-tools-config"
-keywords = ["llm", "tools", "config", "function", "json", "openai", "gemini"]
+keywords = ["llm", "tools", "config", "functions"]
 license = "MIT"
 description = "for generating LLM tools configurations for OpenAI, Gemini and more."
 
